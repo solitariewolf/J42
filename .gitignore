@@ -3,3 +3,4 @@ package-lock.json
 package.json
 .env
 user_times.txt
+/commands/__pycache__/
