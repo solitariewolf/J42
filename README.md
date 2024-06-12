@@ -1,4 +1,4 @@
-# 🎙️ Bot de Discord para Monitoramento de Tempo de Uso de Canais de Voz
+# 🎙️ Bot de Discord para Monitoramento de Tempo de Uso de Canais de Voz (Beta)
 
 Este bot de Discord foi criado para monitorar e relatar o tempo que os usuários passam nos canais de voz. Ele também possui um sistema de recompensas baseado no tempo de uso. 🏆
 
