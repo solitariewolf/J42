@@ -13,14 +13,15 @@ Este bot de Discord foi criado para monitorar e relatar o tempo que os usuários
 
 1. Clone este repositório.
 2. Instale as dependências com:
-```python
-pip install -r requirements.txt
 
+```
+pip install -r requirements.txt
+```
 Crie um arquivo .env na raiz do projeto e adicione seu token de bot do Discord com a chave DISCORD_TOKEN.
 Execute o bot com:
-Python
-
+```
 python main.py
+```
 Código gerado por IA. Examine e use com cuidado. Mais informações em perguntas frequentes.
 🤖 Comandos
 !times: Mostra o tempo total que cada usuário passou nos canais de voz.
