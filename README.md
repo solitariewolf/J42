@@ -18,6 +18,13 @@ Este bot de Discord foi criado para monitorar e relatar o tempo que os usuários
 pip install -r requirements.txt
 ```
 Crie um arquivo .env na raiz do projeto e adicione seu token de bot do Discord com a chave DISCORD_TOKEN.
+```
+sudo nano .env
+```
+```
+DISCORD_TOKEN=PUT_YOUR_TOKEN_HERE
+```
+
 Execute o bot com:
 ```
 python main.py
